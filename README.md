@@ -1,4 +1,4 @@
-# bozorchi.com – Multi-do‘kon Marketplace
+# bozorchi.com (bazify) – Multi-do‘kon Marketplace
 
 O‘zbekiston va emerging markets uchun maishiy texnika (keyin keng kategoriyalar) bo‘yicha narx solishtirish, yaqin do‘kon topish va bron qilish platformasi.
 
@@ -27,14 +27,13 @@ O‘zbekiston va emerging markets uchun maishiy texnika (keyin keng kategoriyala
 
 ## Traction
 - 10+ do‘kon rozi bo‘lgan
-- Ertaga real taqdimotdan keyin 5–10 ta kelishuv kutilmoqda
 - Test bronlari muvaffaqiyatli
 
 ## Kelajakdagi yangiliklar
 - AI personal tavsiyalar va to‘liq mahsulot ma’lumoti
 - AR (mahsulotni xonada sinab ko‘rish – globalda yangi)
 - 1C va POS integratsiyalari
-- Global kengayish: Markaziy Osiyo → MENA → Indoneziya
+- Global kengayish: Markaziy Osiyo → MENA → Turkiya
 
 ## UzCombinator uchun
 45 kunlik batafsil roadmap: [roadmap.md](/roadmap.md)
